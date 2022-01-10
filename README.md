@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[react movie database](https://chie7tain.github.io/react-movie-database/)**
+- 🔭 I’m currently working on **[react movie database](rmdb-chie7tain.vercel.app)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms,UI/UX and Java**
 
