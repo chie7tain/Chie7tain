@@ -7,17 +7,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[react movie database](https://rmdb-chie7tain.vercel.app/)**
-
 - 🌱 I’m currently learning **Data Structures and Algorithms,UI/UX and Java**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://chie7tain.netlify.app/)**
+- 👨‍💻 a few tinkerings are available at **[My Portfolio](https://chie7tain.netlify.app/)**
 
 - 📫 How to reach me **fredrickokwuobi@gmail.com**
 
-- ⚡ Fun fact **I play Volleyball, Table Tennis and Read lots of books**
+- ⚡ Fun fact **I play Volleyball, Table Tennis, Read lots of books and write philosophy**
 
 ## 🚀 Languages and Tools:
 
