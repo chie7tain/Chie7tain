@@ -49,16 +49,16 @@
     </a>
 </p>
 
-## 📊 My Github Stats
+<!-- ## 📊 My Github Stats -->
 
-  <br/>
+<!--   <br/>
     <a href="https://github.com/chie7tain/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chie7tain&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/chie7tain/github-readme-stats"><img alt="Chie7tain's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chie7tain&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
-<br/>
+<br/> -->
 
 <!-- <a href="https://github.com/chie7tain/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=chie7tain&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
@@ -77,9 +77,9 @@
 
 </p>
 
-## ❤ Views and Followers
+<!-- ## ❤ Views and Followers
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=chie7tain">
 </a>
-<a href="https://github.com/chie7tain?tab=followers"><img src="https://img.shields.io/github/followers/chie7tain?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/chie7tain?tab=followers"><img src="https://img.shields.io/github/followers/chie7tain?label=Followers&style=social" alt="GitHub Badge"></a> -->
