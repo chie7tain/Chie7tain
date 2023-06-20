@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms,UI/UX and Java**
 
-- 👨‍💻 a few tinkerings are available at **[My Portfolio](https://chie7tain.netlify.app/)**
+<!-- 👨‍💻 a few tinkerings are available at **[My Portfolio](https://chie7tain.netlify.app/)** -->
 
 - 📫 How to reach me **fredrickokwuobi@gmail.com**
 
