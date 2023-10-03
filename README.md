@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently working as a Frontend Engineer**
+- 🌱 I’m currently working as a Frontend Engineer and Mentor upcomming devs who learn software engineering**
 
 <!-- 👨‍💻 a few tinkerings are available at **[My Portfolio](https://chie7tain.netlify.app/)** -->
 
