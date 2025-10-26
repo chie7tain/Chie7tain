@@ -7,11 +7,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I currently work as a Frontend Engineer
+- 🌱 I currently work as a Fullstack Engineer at NASD
 
 <!-- 👨‍💻 a few tinkerings are available at **[My Portfolio](https://chie7tain.netlify.app/)** -->
 
-- 📫 How to reach me **fredrickokwuobi@gmail.com**
+- 📫 How to reach me **iokwuobi.work@gmail.com**
 
 - ⚡ Fun fact **I play Volleyball, practice Judo, Table Tennis, Read lots of books and write philosophy**
 
